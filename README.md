@@ -71,17 +71,17 @@ It allows users to upload **images or PDFs**, extract **high-accuracy OCR text**
 
 ### 💻 Frontend Setup (React + TypeScript)
 1. **Install node modules**
-bash```
+   ```bash
    cd frontend
    npm install
- ```
+   ```
 2. **Update Backend URL**
 
 - Open: project\src\components\FileUpload.tsx.
 - And update: const API_URL = 'https://8581a2fb9278.ngrok-free.app';
 
 3. **Start the frontend**
-bash```
+```bash
 npm run dev
 ```
 ### 🎯 Usage Guide
