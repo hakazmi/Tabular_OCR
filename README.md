@@ -74,7 +74,7 @@ It allows users to upload **images or PDFs**, extract **high-accuracy OCR text**
 bash```
    cd frontend
    npm install
-```
+ ```
 2. **Update Backend URL**
 
 - Open: project\src\components\FileUpload.tsx.
@@ -84,7 +84,7 @@ bash```
 bash```
 npm run dev
 ```
-###🎯 Usage Guide
+### 🎯 Usage Guide
 
 - Open the React App
 
